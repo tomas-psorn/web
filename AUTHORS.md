@@ -4,13 +4,33 @@ Za projektem Fakta o klimatu stojí mnoho lidí. Někteří zpracovávají data,
 
 * Jan "Jeňa" Krčál
 * Marek Lahoda
+* Tomáš Protivinský
 * Ondřej "Ondráš" Přibyla
 * Oldřich "Olda" Sklenář
 * Martin Ukrop
 * Martin "crysman" Zahradník
 * Kristína "Kika" Zákopčanová
 
-Kromě jádra týmu jsme vděční mnohým dalším lidem za oponenturu, zpracování dat, jazykové korektury, grafické připomínky, programování webu či jinou pomoc. Jejich jména uvádíme níže (v abecedním pořadí). Děkujeme.
+
+Na vizuální stránce grafik pracují: 
+* Kristína "Kika" Zákopčanová
+* Pavol Ulbrich
+* Markéta "Megi" Kejstová
+* Jakub Novák
+
+Oponenturu a korektury kromě jádra týmu také dělají: 
+* Lenka Sedlačková
+* Martin "Set" Křivánek
+
+Sběr a zpracování dat a texty kromě jádra týmu také tvoří: 
+* Ondřej Urbanovský
+* Ondřej "Blonďák" Lomič 
+* Petr Novotný
+* Adam Čajka
+* Tranh Anh Minh 
+
+
+U rozjezdu projektu bylo mnoho dalších lidí, kterým jsme vděční za podporu, programování webu, připomínky i prohledávání slepých cest. Jejich jména uvádíme níže (v abecedním pořadí). Děkujeme.
 
 * Jaroslav "Jarda" Čechak
 * Jan Drábek
@@ -20,14 +40,9 @@ Kromě jádra týmu jsme vděční mnohým dalším lidem za oponenturu, zpracov
 * Lenka Knapová
 * František "Franta" Kotas
 * Dominika Krejčí
-* Martin "Set" Křivánek
 * Henrich Lauko
-* Jakub Novák
-* Petr Novotný
-* Tomáš Protivinský
 * Daniel Rychlý
 * Marko Řeháček
-* Lenka Sedlačková
 * Anna Segečová
 * Petr "Kaluž" Špaček
 * Vladimír "Vláďa" Štill
